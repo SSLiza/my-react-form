@@ -1,5 +1,6 @@
 import './App.css'
 import ControlledField from './components/controlledfield/ControlledField'
+import FamilyTree from './components/familytree/FamilyTree'
 import FormAction from './components/formaction/FormAction'
 import HooksForm from './components/HooksForm/HooksForm'
 import ProductManagement from './components/productmanagement/ProductManagement'
@@ -17,6 +18,7 @@ function App() {
       {/* <UncontrolledField/> */}
       {/* <HooksForm/> */}
       <ProductManagement/>
+      {/* <FamilyTree/> */}
     </>
   )
 }
