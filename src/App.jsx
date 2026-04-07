@@ -17,8 +17,8 @@ function App() {
       {/* <ControlledField/> */}
       {/* <UncontrolledField/> */}
       {/* <HooksForm/> */}
-      <ProductManagement/>
-      {/* <FamilyTree/> */}
+      {/* <ProductManagement/> */}
+      <FamilyTree/>
     </>
   )
 }
